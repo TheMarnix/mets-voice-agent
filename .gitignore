@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Obsidian (vault config — don't track personal Obsidian state)
+obsidian/.obsidian/workspace*
+obsidian/.obsidian/cache
+obsidian/.trash/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+build/
+.next/
+.turbo/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets.json
+credentials.json
+
+# Databases / runtime data
+*.sqlite
+*.sqlite3
+*.db
+data/
+logs/
+*.log
+
+# Build artefacts / cache
+.cache/
+tmp/
+temp/

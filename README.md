@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MeTs — Voice-First Personal AI Agent
 
 > Hands-free, voice-native, async agentic delegation. Runs on a Raspberry Pi.
@@ -48,3 +49,7 @@ See [`BUILDLOG.md`](./BUILDLOG.md). Dated entries, decisions + reasoning, writte
 ## Why publicly
 
 The whole point of the project is the *speed of a single person with the right tools in 2026*. The build log is the artifact.
+=======
+# mets-voice-agent
+Voice-first personal AI agent on a Raspberry Pi. Hands-free async delegation with a live activity dashboard. Built publicly in 4 days.
+>>>>>>> 77438d4df3a68ab822870b03304c403cbd61f6f8
