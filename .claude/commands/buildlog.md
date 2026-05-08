@@ -1,0 +1,1 @@
+Append a new dated entry to BUILDLOG.md for today's session. Ask me: what did I build, what broke, what decisions were made, what's tomorrow's goal. Write it in the established BUILDLOG style — honest, dense, no marketing. Do not invent content; only write what I tell you.

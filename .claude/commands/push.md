@@ -1,0 +1,1 @@
+Look at the current git status and diff. Then output the exact shell commands the user should copy-paste to stage, commit, and push — do NOT run them yourself. Format as a code block with one command per line. Include: git add for relevant files, git commit with a message derived from what changed, and git push. Follow project convention: no --no-verify, no force push.
